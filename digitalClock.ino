@@ -1,3 +1,7 @@
+/*  Project by: Abtin Ortgoli
+    Course: CSCE 3612
+*/
+
 #include <TFT_eSPI.h>
 #include <SPI.h>
 #include"LIS3DHTR.h"
