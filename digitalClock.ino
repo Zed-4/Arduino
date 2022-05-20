@@ -42,7 +42,7 @@ uint8_t mm = conv2d(__TIME__ + 3);
 uint8_t ss = conv2d(__TIME__ + 6);
 
 // set the time to anything desire
-//uint8_t hh = 00 ;
+//uint8_t hh = 00;
 //uint8_t mm = 00;
 //uint8_t ss = 00;
 
