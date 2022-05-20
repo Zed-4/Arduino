@@ -18,9 +18,12 @@ all the knowledge of LCD screen, and all the other sensors.
 
 Test case #1:
       Showing the clock working properly on the given format and roll overs correctly.
+https://drive.google.com/file/d/113wCRpT30gK7026BjxTucw6K-yTyun8X/view?usp=sharing
 
 Test case #2:
       Showing the clock blue LED blinks at each second change and screen times out after 5 seconds.
+https://drive.google.com/file/d/1LaT4DO0TwA1YOTQROcOLXJ0xTBUSdJLy/view?usp=sharing
 
 Test case #3:
       Showing that the screen will wake up after screen turned only by 45 degrees within positive x-xis.
+https://drive.google.com/file/d/1dnrTXSo65bJwNwLb2V_HRLg4538XyRIU/view?usp=sharing
